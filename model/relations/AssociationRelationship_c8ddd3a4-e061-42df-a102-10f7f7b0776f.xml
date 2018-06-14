@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Target Market"
+    id="c8ddd3a4-e061-42df-a102-10f7f7b0776f">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_ae181612-a5e8-47f8-8666-340e6418b9d2.xml#ae181612-a5e8-47f8-8666-340e6418b9d2"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_467f8345-af87-4e83-84b4-1ceade05d00d.xml#467f8345-af87-4e83-84b4-1ceade05d00d"/>
+</archimate:AssociationRelationship>

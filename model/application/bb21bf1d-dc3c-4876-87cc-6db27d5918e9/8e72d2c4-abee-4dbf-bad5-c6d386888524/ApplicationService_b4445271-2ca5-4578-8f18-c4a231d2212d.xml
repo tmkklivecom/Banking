@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accounting"
+    id="b4445271-2ca5-4578-8f18-c4a231d2212d"
+    documentation="Acccount Storing&#xD;&#xA;Interests  Calculating&#xD;&#xA;Transaction Handling&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Derivative"
+    id="3ea61f6a-d7c6-4849-8c3a-109e83f57358"
+    documentation="A derivative is a contract whose value is based on an agreed-upon underlying financial asset &#xD;&#xA;common examples of derivative instruments are Forwards, Futures, Options and Swaps. &#xD;&#xA;&#xD;&#xA;A forward contract is a customized contract between two parties, where settlement takes place on a specific date in future at a price agreed today.&#xD;&#xA;option is a contract which gives the buyer (the owner or holder of the option) the right, but not the obligation, to buy or sell an underlying asset or instrument at a specified strike price on a specified date."/>
