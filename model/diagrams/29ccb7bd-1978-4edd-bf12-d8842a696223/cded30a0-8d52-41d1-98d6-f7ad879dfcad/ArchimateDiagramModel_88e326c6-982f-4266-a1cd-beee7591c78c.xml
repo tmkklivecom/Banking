@@ -565,16 +565,4 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_9fa19498-7cd8-468e-9e22-795fb7f64c55.xml#9fa19498-7cd8-468e-9e22-795fb7f64c55"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="21a5fdb6-1a71-453c-abc4-7caaf0ab4e36">
-    <bounds
-        x="1056"
-        y="216"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_5e92188a-8120-4108-bf4a-5afb05e9cf28.xml#5e92188a-8120-4108-bf4a-5afb05e9cf28"/>
-  </children>
 </archimate:ArchimateDiagramModel>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Samsung_GDPR_Architecture"
+    name="Samsung_GDPR_Architecture_Target"
     id="7b25f779-61dd-4e98-a2c7-3bef33eea8b5"
     documentation="https://www.europe-samsung.com/gdpr/webform/pl">
   <children
@@ -26,14 +26,14 @@
           href="CompositionRelationship_500bfe6b-bdca-487d-90c0-29f4c3580c1c.xml#500bfe6b-bdca-487d-90c0-29f4c3580c1c"/>
     </sourceConnections>
     <bounds
-        x="147"
+        x="144"
         y="372"
         width="581"
         height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="26236c1c-5ff8-4f7a-9894-233472cc3668"
-        targetConnections="73e34832-b4ee-41e2-937d-0689f02b1d05 0da7133b-4094-48ad-b74c-b4c5bfc0d66f b258d886-425f-4548-9d9e-98bb80983e3e">
+        targetConnections="73e34832-b4ee-41e2-937d-0689f02b1d05 0da7133b-4094-48ad-b74c-b4c5bfc0d66f">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="0d761b38-6f66-4b96-a0d1-58fc4fa7393f"
@@ -97,9 +97,9 @@
           id="bd1a5807-23e5-4485-90ab-de7f3e35dcf8"
           targetConnections="c6346480-aed8-4a2c-a108-97d2f7318109">
         <bounds
-            x="48"
+            x="36"
             y="48"
-            width="120"
+            width="132"
             height="61"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -128,7 +128,7 @@
     <bounds
         x="144"
         y="24"
-        width="587"
+        width="733"
         height="325"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -227,6 +227,18 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_331bf255-00bd-424b-a127-836a8598e520.xml#331bf255-00bd-424b-a127-836a8598e520"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="d564abe2-70f7-4c8a-9182-74bac24ac545">
+      <bounds
+          x="540"
+          y="168"
+          width="169"
+          height="76"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_b71aa8a5-005f-41a9-be3b-5e7fbe108034.xml#b71aa8a5-005f-41a9-be3b-5e7fbe108034"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_263589b0-9a48-49a4-ab47-d913dcb0ecbd.xml#263589b0-9a48-49a4-ab47-d913dcb0ecbd"/>
@@ -293,32 +305,6 @@
     <archimateElement
         xsi:type="archimate:BusinessInterface"
         href="BusinessInterface_fb989ab2-9976-4501-ac85-94cd38565a3b.xml#fb989ab2-9976-4501-ac85-94cd38565a3b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="d564abe2-70f7-4c8a-9182-74bac24ac545">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="b258d886-425f-4548-9d9e-98bb80983e3e"
-        source="d564abe2-70f7-4c8a-9182-74bac24ac545"
-        target="26236c1c-5ff8-4f7a-9894-233472cc3668">
-      <bendpoints
-          startX="12"
-          startY="238"
-          endX="303"
-          endY="-6"/>
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_2a27facc-7208-4bd8-aa94-0cf93ed9cef7.xml#2a27facc-7208-4bd8-aa94-0cf93ed9cef7"/>
-    </sourceConnections>
-    <bounds
-        x="780"
-        y="192"
-        width="169"
-        height="76"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_b71aa8a5-005f-41a9-be3b-5e7fbe108034.xml#b71aa8a5-005f-41a9-be3b-5e7fbe108034"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
