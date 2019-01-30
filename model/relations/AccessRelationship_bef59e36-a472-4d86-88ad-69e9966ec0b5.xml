@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction data"
+    id="bef59e36-a472-4d86-88ad-69e9966ec0b5">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_cf590e01-dc1d-4198-bcc1-d00a8a8f3728.xml#cf590e01-dc1d-4198-bcc1-d00a8a8f3728"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_8817c50f-275a-4e97-9621-5a09aa98986f.xml#8817c50f-275a-4e97-9621-5a09aa98986f"/>
+</archimate:AccessRelationship>

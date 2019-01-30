@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ad hoc query (real-time); "
+    id="7f4bbf1d-ba34-486d-93f3-d516bf52e2c8">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_03ffa637-a4ef-4f87-ad33-b884259e608f.xml#03ffa637-a4ef-4f87-ad33-b884259e608f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_db4b0480-c7f0-48c0-a1aa-3133af36330c.xml#db4b0480-c7f0-48c0-a1aa-3133af36330c"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Online Flow"
+    id="e35bc7ca-b037-432b-8cf7-73a7c02301bd">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_6d281deb-2366-40ad-b4de-397ef798428a.xml#6d281deb-2366-40ad-b4de-397ef798428a"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_ebb5b2d5-4dd2-4c97-b105-de2cb8356525.xml#ebb5b2d5-4dd2-4c97-b105-de2cb8356525"/>
+</archimate:FlowRelationship>

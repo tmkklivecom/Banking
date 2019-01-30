@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manual operation on docs"
+    id="e43f60e6-74c6-4e6b-b947-2f13e16271a7">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_82a965f0-3831-4cb9-8676-80d01336dfa5.xml#82a965f0-3831-4cb9-8676-80d01336dfa5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_be04514f-e982-47a4-944b-23b4d4e40654.xml#be04514f-e982-47a4-944b-23b4d4e40654"/>
+</archimate:FlowRelationship>

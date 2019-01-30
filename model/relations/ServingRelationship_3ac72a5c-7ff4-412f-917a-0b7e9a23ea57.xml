@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alerts"
+    id="3ac72a5c-7ff4-412f-917a-0b7e9a23ea57">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_21ab911c-4d92-4fa7-bc2b-37d6503be688.xml#21ab911c-4d92-4fa7-bc2b-37d6503be688"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f3583f4e-8713-4f62-96d7-778c34c8828f.xml#f3583f4e-8713-4f62-96d7-778c34c8828f"/>
+</archimate:ServingRelationship>

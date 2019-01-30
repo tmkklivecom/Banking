@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Batch Flow"
+    id="a12a4d13-ab9d-4c16-bd4e-fdfa88c7349c">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_22c69fe7-9919-4f9c-b2a6-fdbfda31117f.xml#22c69fe7-9919-4f9c-b2a6-fdbfda31117f"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_d78a7bc0-ec61-47c9-a97f-5a6ea7db88d5.xml#d78a7bc0-ec61-47c9-a97f-5a6ea7db88d5"/>
+</archimate:AssociationRelationship>

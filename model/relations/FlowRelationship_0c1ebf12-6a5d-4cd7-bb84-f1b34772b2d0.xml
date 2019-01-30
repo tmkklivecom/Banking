@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BATCH SYNC"
+    id="0c1ebf12-6a5d-4cd7-bb84-f1b34772b2d0">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_d7c7a471-be36-41f0-8761-de32cb25295e.xml#d7c7a471-be36-41f0-8761-de32cb25295e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_db4b0480-c7f0-48c0-a1aa-3133af36330c.xml#db4b0480-c7f0-48c0-a1aa-3133af36330c"/>
+</archimate:FlowRelationship>
